@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacWithDecoratorAndInterceptor", "AutofacWithDecoratorAndInterceptor\AutofacWithDecoratorAndInterceptor.csproj", "{11CF1D22-E690-4EF1-A84D-612BD1537B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11CF1D22-E690-4EF1-A84D-612BD1537B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CF1D22-E690-4EF1-A84D-612BD1537B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CF1D22-E690-4EF1-A84D-612BD1537B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CF1D22-E690-4EF1-A84D-612BD1537B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA13AFE-97F1-463C-A269-8DA0EFE38C45}
+	EndGlobalSection
+EndGlobal
